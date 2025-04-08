@@ -11,20 +11,40 @@ body {
  .bat{
     display:flex;
     justify-content: center;
- }
+   }
+   
+   .texto{
+      display:flex;
+    text-align: center;
+      font-size: 150%;
+   color: rgb(255, 255, 255);
+   }
 
- .texto{
+   .texto2{
+      color: rgb(255, 255, 255);
+    text-align: center;
     font-size: 250%;
-    color: rgb(255, 255, 255);
- }
-
- .bat_robin{
-    display: flex;
-    justify-content: right;
- }
+   }
+   
+   .bat_robin{
+      display: flex;
+      font-size: 250%;
+      color: rgb(255, 255, 255);
+   }
 
  h2{
     color: rgb(148, 9, 9);
     text-align: center;
     font-size: 400%;
+ }
+ .Batran{
+   display: flex;
+   justify-content:center;
+   text-align: center;
+   font-size: 100%;
+   color: rgb(255, 255, 255);
+ }
+ .logo2{
+   display:flex;
+   
  }
